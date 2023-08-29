@@ -6,9 +6,9 @@ def mail(message):
         smtp_port = 587
 
         # Email credentials
-        sender_email = 'tamilinsta28@gmail.com'
-        sender_password = 'fsmupokaesgojmns'
-        recipient_email = 'gokulsubramanian241@gmail.com'
+        sender_email = "ENTER YOUR EMAIL"
+        sender_password = "ENTER YOUR PASSWORD"
+        recipient_email = "ENTER RECEIVER EMAIL"
 
         # Email content
         subject = "THIS IS A AUTOMATED MESSAGE FROM -GATEPASS SYSTEM🧭"
