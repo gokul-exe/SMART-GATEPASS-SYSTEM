@@ -28,4 +28,4 @@ Usage:
 
 This innovative project streamlines gatepass management, eliminating manual processes and reducing errors. It offers educational institutions a convenient and efficient solution to track student movements and maintain accurate records. 🚪✨
 
-Join the technological revolution and empower your institution with the Students Smart Gatepass System! 🌟🏫💻
+
