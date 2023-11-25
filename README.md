@@ -19,7 +19,7 @@ Key Features:
 
 💡 **User-friendly Interface**: Enjoy a sleek and user-friendly interface for smooth interaction and effortless operation. 🖥️🎯
 
-Usage:
+# Usage:
 
 1️⃣ Launch the application and scan a student's barcode.
 2️⃣ Retrieve student details from the data source and activate the timer.
@@ -27,5 +27,7 @@ Usage:
 4️⃣ Log all scanned data, including student details, staff members, and timestamps, in a CSV file for future reference.
 
 This innovative project streamlines gatepass management, eliminating manual processes and reducing errors. It offers educational institutions a convenient and efficient solution to track student movements and maintain accurate records. 🚪✨
+## VIDEO
+https://github.com/gokuls-subramanian/SMART-GATEPASS-SYSTEM/assets/96585296/a7a3aafe-7c6f-4116-9553-7f187ff78b19
 
 
